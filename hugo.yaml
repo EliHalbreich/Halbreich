@@ -1,0 +1,54 @@
+baseurl: "https://halbreich.net/"  # please update this to your actual URL
+languageCode: "en-us"
+title: "Eli Halbreich's personal website"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About Me
+      url: "about/"
+      weight: 2
+    - name: Curriculum Vitae
+      url: "cv/"
+      weight: 3
+    - name: Links
+      url: "links/"
+      weight: 4
+    - name: Contact
+      url: "contact/"
+      weight: 5
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; Eli D. Halbreich 2022 -- {Year}<br>
+  Made with the [Hugo](https://gohugo.io/) theme [XMin](https://github.com/yihui/hugo-xmin).
+  Deployed to [Netlify](https://www.netlify.com/)."
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
