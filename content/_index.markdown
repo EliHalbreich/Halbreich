@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-[<img src="/images/logo.jpg" style="max-width:15%;min-width:40px;float:right;" alt="my headshot taken at SPPAC 2025 in Phoenix, AZ" />](/images/logo.jpg)
+[<img src="/images/logo.jpg" style="max-width:20%;min-width:40px;float:right;" alt="my headshot taken at SPPAC 2025 in Phoenix, AZ" />](/images/logo.jpg)
 
 # Eli D. Halbreich (he/him/his)
 
