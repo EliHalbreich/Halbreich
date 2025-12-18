@@ -1,2 +1,2 @@
-# halbreich
-Persoal website of Eli Halbreich
+# Halbreich
+Personal website of Eli Halbreich
