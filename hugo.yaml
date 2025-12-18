@@ -1,4 +1,4 @@
-baseurl: "https://halbreich.net/"  # please update this to your actual URL
+baseurl: "https://elihalbreich.netlify.app"  # please update this to your actual URL
 languageCode: "en-us"
 title: "Eli Halbreich's personal website"
 theme: "hugo-xmin"
