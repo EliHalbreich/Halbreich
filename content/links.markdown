@@ -4,7 +4,7 @@ title: Links
 
 * **ORCID**: https://orcid.org/0000-0003-4942-9804
 * **Google Scholar**: https://scholar.google.com/citations?user=ffVvNRYAAAAJ
-* **Bluesky**: https://bsky.app/profile/elihalbreich.bsky.social
+* **Bluesky**: https://bsky.app/profile/halbreich.net
 * **ResearchGate**: https://www.researchgate.net/profile/Eli_Halbreich
 * **NCBI Bibliography**: https://www.ncbi.nlm.nih.gov/myncbi/1rW3uvxKrLgYqw/bibliography/public/
 * **Open Science Framework**: https://osf.io/85sej/

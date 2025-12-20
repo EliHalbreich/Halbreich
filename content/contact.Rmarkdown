@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-Feel free to get in touch with me on [Bluesky](https://bsky.app/profile/elihalbreich.bsky.social) or via [email](mailto:Eli.Halbreich@ttu.edu).
+Feel free to get in touch with me on [Bluesky](https://bsky.app/profile/halbreich.net) or via [email](mailto:Eli.Halbreich@ttu.edu).
