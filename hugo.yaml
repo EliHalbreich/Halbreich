@@ -1,6 +1,6 @@
 baseurl: "https://elihalbreich.netlify.app"  # please update this to your actual URL
 languageCode: "en-us"
-title: "Eli Halbreich's personal website"
+title: "Eli Halbreich"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
