@@ -25,7 +25,7 @@ Linder, D. E., Folta, S. C., Must, A., Mulé, C. M., Cash, S. B., **Halbreich, E
 
 Linder D. E., Santiago S., & **Halbreich, E. D.** (2021). Is there a correlation between dog obesity and human obesity? Preliminary findings of overweight status among dog owners and their dogs. *Frontiers in Veterinary Science*, *8*, 654617. https://doi.org/10.3389/fvets.2021.654617. [[PDF](/pdf/linder_et_al_2021_is_there_a_correlation.pdf)]
 
-# Theses and Dissertation
+# Theses
 ## Master's Thesis
 **Halbreich, E. D.** (2024). *Pet ownership and family involvement in sports and other activities*. TTU DSpace Repository. https://hdl.handle.net/2346/99242. [[PDF](/pdf/halbreich_2024_pet_ownership_and_family_involvement.pdf)]
 
