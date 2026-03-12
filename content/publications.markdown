@@ -3,7 +3,7 @@ title: "Publications"
 
 ---
 # Peer-Reviewed Publications
-Hefner, T. D., **Halbreich, E. D.**, & Van Allen, J. (In Press). Predictive utility and cut point of the Physical Activity Questionnaire - Children for differentiating youth meeting moderate to vigorous physical activity recommendations using accelerometry. *Journal of Pediatric Psychology*. https://doi.org/10.1093/jpepsy/jsaf116
+Hefner, T., **Halbreich, E.**, & Van Allen, J. (2026). Predictive utility and cut point of the Physical Activity Questionnaire—Children for differentiating youth meeting moderate to vigorous physical activity recommendations using accelerometry. *Journal of Pediatric Psychology*. https://doi.org/10.1093/jpepsy/jsaf116
 
 **Halbreich, E. D.**, & Van Allen, J. (2024). Pet Ownership and Family Involvement in Sports and Other Activities. *Anthrozoös*, *37*(6), 1107--1131. https://doi.org/10.1080/08927936.2024.2406097
 
