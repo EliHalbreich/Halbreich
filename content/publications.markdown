@@ -3,21 +3,24 @@ title: "Publications"
 
 ---
 # Peer-Reviewed Publications
-Hefner, T., **Halbreich, E.**, & Van Allen, J. (2026). Predictive utility and cut point of the Physical Activity Questionnaire—Children for differentiating youth meeting moderate to vigorous physical activity recommendations using accelerometry. *Journal of Pediatric Psychology*. https://doi.org/10.1093/jpepsy/jsaf116
+**Halbreich, E. D.**, Lancaster, B., Littlefield, A. K., & Van Allen, J. (2026). Examining the relationship 
+between pet ownership and prosocial behaviors among early adolescents. *Journal of Adolescence*. https://doi.org/10.1002/jad.70225. [[PDF](/pdf/halbreich_et_al_2026_examining_the_relationship.pdf)]
 
-**Halbreich, E. D.**, & Van Allen, J. (2024). Pet Ownership and Family Involvement in Sports and Other Activities. *Anthrozoös*, *37*(6), 1107--1131. https://doi.org/10.1080/08927936.2024.2406097
+Hefner, T., **Halbreich, E.**, & Van Allen, J. (2026). Predictive utility and cut point of the Physical Activity Questionnaire—Children for differentiating youth meeting moderate to vigorous physical activity recommendations using accelerometry. *Journal of Pediatric Psychology*. *51*(5), 405--411, https://doi.org/10.1093/jpepsy/jsaf116. [[PDF](/pdf/hefner_et_al_2026_predictive_utility.pdf)]
+
+**Halbreich, E. D.**, & Van Allen, J. (2024). Pet Ownership and Family Involvement in Sports and Other Activities. *Anthrozoös*, *37*(6), 1107--1131. https://doi.org/10.1080/08927936.2024.2406097. [[PDF](/pdf/halbreich_van_allen_2024_pet_ownership_and_family_involvement.pdf)]
 
 **Halbreich, E. D.**, Hefner, T. D., Healy, A. S., & Van Allen, J. (2024). Measurement of attachment in human-animal interaction research. *Human-Animal Interactions*, *12*(1). https://doi.org/10.1079/hai.2024.0030. [[PDF](/pdf/halbreich_et_al_2024_measurement_of_attachment.pdf)]
 
-King, E. K., **Halbreich, E. D.**, Callina, K., & Mueller, M. K. (2023). Companion animals and the relationship between peer victimization and emotion regulation in youth. *Journal of Research on Adolescence*, *34*(1), 85--95. https://doi.org/10.1111/jora.12901
+King, E. K., **Halbreich, E. D.**, Callina, K., & Mueller, M. K. (2023). Companion animals and the relationship between peer victimization and emotion regulation in youth. *Journal of Research on Adolescence*, *34*(1), 85--95. https://doi.org/10.1111/jora.12901. [[PDF](/pdf/king_et_al_2023_companion_animals_and_the_relationship.pdf)]
 
 King, E. K., **Halbreich, E. D.**, Anderson, E. C., & Mueller, M. K. (2023) Feasibility of using ecological momentary assessment to measure the effects of interactions with pet dogs on psychophysiological reactivity in adolescents with social anxiety. *Human-Animal Interactions*, *11*(1), https://doi.org/10.1079/hai.2023.0036. [[PDF](/pdf/king_et_al_2023_feasibility_of_using_ecological.pdf)]
 
-**Halbreich, E. D.**, Callina, K., King, E. K., & Mueller, M. K. (2023). Companion animals and profiles of peer social behavior in adolescence. *Journal of Adolescence*, *95*(6), 1152--1167. https://doi.org/10.1002/jad.12183
+**Halbreich, E. D.**, Callina, K., King, E. K., & Mueller, M. K. (2023). Companion animals and profiles of peer social behavior in adolescence. *Journal of Adolescence*, *95*(6), 1152--1167. https://doi.org/10.1002/jad.12183. [[PDF](/pdf/halbreich_et_al_2023_companion_animals_and_profiles.pdf)]
 
 **Halbreich, E. D.** (2022). Perceived attitudes of pet owners about their pets during the COVID-19 pandemic. *Animalia: An Anthrozoology Journal*, *6*(1), 1--13. https://animalia3.wixsite.com/mysite/post/perceived-attitudes-of-pet-owners-about-their-pets-during-the-covid-19-pandemic. [[PDF](/pdf/halbreich_2022_perceived_attitudes_of_pet_owners_about_their_pets.pdf)]
 
-Mueller, M. K., King, E. K., **Halbreich, E. D.**, & Callina, K. S. (2022). Companion animals and adolescent stress and adaptive coping during the COVID-19 pandemic. *Anthrozoös*, *35*(5), 693--712. https://doi.org/10.1080/08927936.2022.2027093
+Mueller, M. K., King, E. K., **Halbreich, E. D.**, & Callina, K. S. (2022). Companion animals and adolescent stress and adaptive coping during the COVID-19 pandemic. *Anthrozoös*, *35*(5), 693--712. https://doi.org/10.1080/08927936.2022.2027093. [[PDF](/pdf/mueller_et_al_2022_companion_animals_and_adolescent_stress.pdf)]
 
 **Halbreich, E. D.**, & Mueller, M. K. (2022). Profiles of family pet ownership during the COVID-19 pandemic. *Current Psychology*. https://doi.org/10.1007/s12144-021-02574-x. [[PDF](/pdf/halbreich_mueller_2023_profiles_of_family_pet.pdf)]
 
