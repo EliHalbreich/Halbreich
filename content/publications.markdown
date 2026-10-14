@@ -4,7 +4,7 @@ title: "Publications"
 ---
 # Peer-Reviewed Publications
 **Halbreich, E. D.**, Lancaster, B., Littlefield, A. K., & Van Allen, J. (2026). Examining the relationship 
-between pet ownership and prosocial behaviors among early adolescents. *Journal of Adolescence*. https://doi.org/10.1002/jad.70225. [[PDF](/pdf/halbreich_et_al_2026_examining_the_relationship.pdf)]
+between pet ownership and prosocial behaviors among early adolescents. *Journal of Adolescence*, *98*(7), 2417--2430. https://doi.org/10.1002/jad.70225. [[PDF](/pdf/halbreich_et_al_2026_examining_the_relationship.pdf)]
 
 Hefner, T., **Halbreich, E.**, & Van Allen, J. (2026). Predictive utility and cut point of the Physical Activity Questionnaire—Children for differentiating youth meeting moderate to vigorous physical activity recommendations using accelerometry. *Journal of Pediatric Psychology*. *51*(5), 405--411, https://doi.org/10.1093/jpepsy/jsaf116. [[PDF](/pdf/hefner_et_al_2026_predictive_utility.pdf)]
 
@@ -47,6 +47,12 @@ Linder, D. E., & **Halbreich, E. D.** (2022, February 22). *Does My Pet Need a �
 **Halbreich, E. D.** (2025). Leaders in the History of Clinical Child and Adolescent Psychology Past Presidents Series: Wendy Silverman. *Journal of Clinical Child & Adolescent Psychology*. https://doi.org/10.1080/15374416.2025.2521866. [[PDF](/pdf/halbreich_2025_leaders_in_the_history_of_clinical_child.pdf)]
 
 # Poster Presentations
+Hefner, T., **Halbreich, E. D.**, Ortega, A., & Van Allen, J. (Submitted). Meta-analysis of cognitive dissonance eating disorder programs for AYA athletes. Society of Pediatric Psychology 2027 Annual Conference, Minneapolis, MN, United States.
+
+**Halbreich, E. D.**, Schutz, D., Albertorio, A., Schmidt, A. T., Van Allen, J., Victor, S. E. (Submitted). Examining sleep among low vision and blind youth. Society of Pediatric Psychology 2027 Annual Conference, Minneapolis, MN, United States.
+
+Yoo, H. B., Hoelscher, E. C., **Halbreich, E. D.**, McLean, E., Healy, A., Price, A., Guidry, E. (2027, March 17–19). *A regional hub: Referral trends and service utilization within a rural-serving integrated behavioral health training model*. American Psychosocial Oncology Society 2027 Annual Conference, San Diego, CA, United States.
+
 Lelakowska, G., Hefner, T. D., **Halbreich, E. D.**, Van Allen, J. (2026, April 30–May 2). *Measurement invariance testing of the Food Noise Questionnaire*. Society of Pediatric Psychology 2026 Annual Conference, Las Vegas, NV, United States.
 
 Hefner, T. D., **Halbreich, E. D.**, Jones, C., Valley, M., & Van Allen, J. (2025, April 3--5). *Relationship between dog ownership, sleep efficiency, and physical activity*. Society of Pediatric Psychology 2025 Annual Conference, Phoenix, AZ, United States.

@@ -7,7 +7,6 @@ title: Links
 * **Bluesky**: https://bsky.app/profile/halbreich.net
 * **ResearchGate**: https://www.researchgate.net/profile/Eli_Halbreich
 * **NCBI Bibliography**: https://www.ncbi.nlm.nih.gov/myncbi/1rW3uvxKrLgYqw/bibliography/public/
-* **Open Science Framework**: https://osf.io/85sej/
 * **GitHub**: https://github.com/EliHalbreich
 * **Publons**: https://publons.com/researcher/4826051/eli-d-halbreich/
 * **LinkedIn**: https://www.linkedin.com/in/elihalbreich/
