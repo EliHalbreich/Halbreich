@@ -6,5 +6,5 @@ I am a Clinical Psychology Ph.D. Candidate at [Texas Tech University](https://ww
 
 I am broadly interested in the impact that companion animals have on the humans that live with them. Specifically, I am interested in the impact of the emotional bond and interactions with animals as well as attitudes toward animals on youth developmental outcomes such as sleep, physical activity, and prosocial behavior. Additionally, my research focuses on the measurement of constructs related to human-animal interactions.
 
-In my spare time, I enjoy running, cycling, baking, and watching soccer (Eintracht Frankfurt, LAFC), baseball (Dodgers), and professional cycling.
+In my spare time, I enjoy running, cycling, baking, and watching sports (mostly Eintracht Frankfurt, Dodgers, Lakers).
 
